@@ -1,0 +1,25 @@
+Random forest F1-score: 0.8932038834951457
+Random forest accuracy: 0.8910891089108911
+
+
+Iteration 1 - F1-score: 0.5639810426540284
+Iteration 1 - accuracy: 0.3927392739273927
+
+Iteration 2 - F1-score: 0.6382022471910113
+Iteration 2 - accuracy: 0.46864686468646866
+
+Iteration 3 - F1-score: 0.6739606126914661
+Iteration 3 - accuracy: 0.5082508250825083
+
+Iteration 4 - F1-score: 0.6883116883116883
+Iteration 4 - accuracy: 0.5247524752475248
+
+Iteration 5 - F1-score: 0.6995708154506438
+Iteration 5 - accuracy: 0.5379537953795379
+
+Iteration 6 - F1-score: 0.702355460385439
+Iteration 6 - accuracy: 0.5412541254125413
+
+Iteration 7 - F1-score: 0.702355460385439
+Iteration 7 - accuracy: 0.5412541254125413
+
